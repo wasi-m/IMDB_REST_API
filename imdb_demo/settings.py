@@ -25,7 +25,7 @@ SECRET_KEY = 'psun#2gzh6a*5zqf)56rws-+o-0dcw)%hzi*373^cwo3gb=z_d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hidden-caverns-43822.herokuapp.com']
 
 
 # Application definition
