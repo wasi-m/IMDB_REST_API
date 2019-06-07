@@ -40,5 +40,5 @@ API implementation of demo IMDB data
 **Navigate to the admin**
 <br />
  `http://127.0.0.1:8000/admin`
-> The admin panal for creating, editing and deleting records. 
+> Login details ID: *admin*   Password: *restapi*<br />The admin panal for creating, editing and deleting records. 
  
