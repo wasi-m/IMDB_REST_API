@@ -11,7 +11,7 @@ Django==2.2.1
 django-filter==2.1.0
 django-haystack==2.8.1
 django-multiselectfield==0.1.8
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 drf-haystack==1.8.5
 idna==2.8
 importlib-metadata==0.15
